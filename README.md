@@ -26,5 +26,6 @@ In the dating section, users can search for others based on location and shared 
 5. **Configure Database Credentials**:
    
    - Update the database credentials in `\facebook\commons\connection.php`
-## Project Information
-This project was developed as part of a collaborative effort at UniMi. It was a joint effort between Alessandro Scalambrino and Andrea Garofalo.
+## Credits
+
+This project was developed as part of a collaborative effort at UniMi. It was a joint effort between [Alessandro Scalambrino](https://github.com/alessandro-scalambrino) and Andrea Garofalo.
