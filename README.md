@@ -1,3 +1,4 @@
+[![Languages](https://img.shields.io/github/languages/top/alessandro-scalambrino/Mini-Facebook)](https://github.com/alessandro-scalambrino/Mini-Facebook)
 # Project Title
 MiniFacebook
 ## Overview
