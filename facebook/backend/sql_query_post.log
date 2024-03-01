@@ -1,0 +1,6 @@
+SQL Query: INSERT INTO post(email, tipo, nomeFile, percorsoFile, testo) 
+			VALUES ('alessandro.scalambrino@gmail.com', 'immagine', 'Cattura.PNG', '../uploads/Cattura.PNG', '');SQL Query: INSERT INTO post(email, tipo, nomeFile, percorsoFile, testo) 
+			VALUES ('alessandro.scalambrino@gmail.com', 'immagine', 'problema.PNG', '../uploads/problema.PNG', '');SQL Query: INSERT INTO post(email, tipo, nomeFile, percorsoFile, testo) 
+			VALUES ('alessandro.scalambrino@gmail.com', 'testo', '', '../uploads/', 'prova
+');SQL Query: INSERT INTO post(email, tipo, nomeFile, percorsoFile, testo, citta, provincia, stato) 
+			VALUES ('alessandro.scalambrino@gmail.com', 'testo', '', '../uploads/', 'prova', 'MONZA', 'MB', 'Italia');

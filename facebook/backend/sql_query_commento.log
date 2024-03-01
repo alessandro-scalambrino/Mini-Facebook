@@ -1,0 +1,15 @@
+SQL Query:  INSERT INTO commento(timestampPublicazione, email, testo, autore) 
+   VALUES ('2024-01-21 15:14:42', 'alessandro.scalambrino@gmail.com','sono il top commenter
+', 'giorgio.presti@gmail.com');SQL Query:  INSERT INTO commento(timestampPublicazione, email, testo, autore) 
+   VALUES ('2024-01-18 17:08:28', 'alessandro.scalambrino@gmail.com','sono il top commenter
+', 'giorgio.presti@gmail.com');SQL Query:  INSERT INTO commento(timestampPublicazione, email, testo, autore) 
+   VALUES ('2024-01-18 17:08:28', 'alessandro.scalambrino@gmail.com','capito?', 'giorgio.presti@gmail.com');SQL Query:  INSERT INTO commento(timestampPublicazione, email, testo, autore) 
+   VALUES ('2024-01-24 16:39:46', 'diana.garofalo@gmail.com','commenta con il tuo*
+', 'diana.garofalo@gmail.com');SQL Query:  INSERT INTO commento(timestampPublicazione, email, testo, autore) 
+   VALUES ('2024-01-21 15:14:42', 'alessandro.scalambrino@gmail.com','ciao bomber', 'marco.mesiti@gmail.com');SQL Query:  INSERT INTO commento(timestampPublicazione, email, testo, autore) 
+   VALUES ('2024-01-18 17:08:28', 'alessandro.scalambrino@gmail.com','veramente un bel marmottone vorrei accarezzarlo
+', 'marco.mesiti@gmail.com');SQL Query:  INSERT INTO commento(timestampPublicazione, email, testo, autore) 
+   VALUES ('2024-01-24 19:12:10', 'giorgio.presti@gmail.com','vaffanculo', 'alessandro.scalambrino@gmail.com');SQL Query:  INSERT INTO commento(timestampPublicazione, email, testo, autore) 
+   VALUES ('2024-01-24 19:18:04', 'alessandro.scalambrino@gmail.com','nope', 'alessandro.scalambrino@gmail.com');SQL Query:  INSERT INTO commento(timestampPublicazione, email, testo, autore) 
+   VALUES ('2024-01-21 20:07:36', 'sara.bonfitto@gmail.com','hihih puzzi
+', 'andera.garofalo@gmail.com');
