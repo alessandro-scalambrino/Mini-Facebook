@@ -6,7 +6,6 @@ MiniFacebook is a web application inspired by Facebook, offering a platform for 
 
 In the dating section, users can search for others based on location and shared hobbies.
 ## Languages Used
-- **Python**
 - **HTML**
 - **JavaScript**
 - **JSON**
