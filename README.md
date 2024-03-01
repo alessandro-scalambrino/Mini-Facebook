@@ -22,7 +22,7 @@ In the dating section, users can search for others based on location and shared 
    - Click on the "Databases" tab.
    - Enter "mini-facebook" in the "Database name" field.
    - Click "Create" to create the database.
-   - import the database using the database dump "/mini-facebook.sql".
+   - import the database using the database dump "\mini-facebook.sql".
 
 5. **Configure Database Credentials**:
    
