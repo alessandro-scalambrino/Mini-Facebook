@@ -5,7 +5,13 @@ MiniFacebook
 MiniFacebook is a web application inspired by Facebook, offering a platform for users to connect, share posts, manage friendships, and explore dating features. Users can register, send friend requests, view their friends list, post text and images, block users, and access social media insights (if they are administrators).
 
 In the dating section, users can search for others based on location and shared hobbies.
-
+## Languages Used
+- **Python**
+- **HTML**
+- **JavaScript**
+- **JSON**
+- **CSS**
+- **SQL**
 ## Features
 - User Registration
 - Friend Requests
