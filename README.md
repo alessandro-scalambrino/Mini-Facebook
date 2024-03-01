@@ -20,8 +20,9 @@ In the dating section, users can search for others based on location and shared 
 3. **Open phpMyAdmin**: Visit [http://localhost/phpmyadmin](http://localhost/phpmyadmin) in your browser.
 4. **Create Database**:
    - Click on the "Databases" tab.
-   - Enter "socialite_db" in the "Database name" field.
+   - Enter "mini-facebook" in the "Database name" field.
    - Click "Create" to create the database.
+   - import the database using the database dump "/mini-facebook.sql".
 
 5. **Configure Database Credentials**:
    
